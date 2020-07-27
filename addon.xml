@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.LoonaticsAsylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR] [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="20.7.18"
+       version="20.7.27"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics 3000 Asylum Repository">
     <dir>
@@ -23,6 +23,11 @@
         <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/install/master/plugins</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/</datadir>
     </dir>
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
