@@ -46,8 +46,8 @@
     </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR] [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
-        <description>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORmagenta]3[COLORpink]0[COLORyellow]0[COLORkhaki]0[/COLOR] [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</description>
+        <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
+        <description>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</description>
         <platform>all</platform>
     <assets>
         <icon>icon.png</icon>
