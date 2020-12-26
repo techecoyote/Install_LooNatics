@@ -54,11 +54,6 @@
       <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
     </dir>
-    <dir>
-        <info compressed="false">https://420clubhouse.xyz/_Repov2/addons.xml</info>
-        <checksum>https://420clubhouse.xyz/_Repov2/addons.xml.md5</checksum>
-        <datadir zip="true">https://420clubhouse.xyz/_Repov2/</datadir>
-    </dir>
 	<dir>
 		<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
