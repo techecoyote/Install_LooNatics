@@ -14,31 +14,6 @@
         <checksum>https://raw.githubusercontent.com/techecoyote/The_Laboratory/master/zips/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/techecoyote/The_Laboratory/master/zips/</datadir>
     </dir>
-    <dir>
-        <info compressed="false">https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/hydem98/addons/master/zips/</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/install/master/plugins</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">http://team2wacked.xyz/_Clubhouse/addons.xml</info>
-        <checksum>http://team2wacked.xyz/_Clubhouse/addons.xml.md5</checksum>
-        <datadir zip="true">http://team2wacked.xyz/_Clubhouse/</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">http://dcvmarvelbuild.co.uk/Repo/addons.xml</info>
-        <checksum>http://dcvmarvelbuild.co.uk/Repo/addons.xml.md5</checksum>
-        <datadir zip="true">http://dcvmarvelbuild.co.uk/Repo/</datadir>
-    </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
