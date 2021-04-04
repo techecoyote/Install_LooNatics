@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.3.27"
+       version="21.3.28"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir>
@@ -88,7 +88,17 @@
             <info compressed="false">http://cf368ff.online-server.cloud/madhouse/zips/addons.xml</info>
             <checksum>http://cf368ff.online-server.cloud/madhouse/zips/addons.xml.md5</checksum>
             <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/zips/</datadir>
-        </dir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mhp/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml</info>
+			<checksum>http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml.md5</checksum>
+			<datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mht/zips/</datadir>
+		</dir>
         <dir><!--Nostromo-->
             <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
