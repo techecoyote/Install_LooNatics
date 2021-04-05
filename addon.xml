@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.3.28"
+       version="21.4.1"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir>
@@ -59,46 +59,6 @@
             <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
         </dir>
-        <dir><!--Dark Carnival-->
-            <info compressed="false">https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/hydem98/addons/master/zips/</datadir>
-        </dir>
-        <dir><!--Karnage-->
-            <info compressed="false">http://82.165.248.28/bonecrusher/zips/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">http://82.165.248.28/bonecrusher/projx/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/projx/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/projx/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">http://82.165.248.28/bonecrusher/xxxmeta/addons.xml</info>
-            <checksum>http://82.165.248.28/bonecrusher/xxxmeta/addons.xml.md5</checksum>
-            <datadir zip="true">http://82.165.248.28/bonecrusher/xxxmeta/</datadir>
-        </dir>
-        <dir><!--Mad House-->
-            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/madhouse/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml</info>
-			<checksum>http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mhp/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml</info>
-			<checksum>http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mht/zips/</datadir>
-		</dir>
         <dir><!--Nostromo-->
             <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
@@ -114,11 +74,11 @@
             <checksum>http://dcvmarvelbuild.co.uk/Repo/addons.xml.md5</checksum>
             <datadir zip="true">http://dcvmarvelbuild.co.uk/Repo/</datadir>
         </dir>
-        <!--<dir>-->
-            <!--<info compressed="false">https://team2wacked.xyz/_Clubhouse/addons.xml</info>-->
-            <!--<checksum>https://team2wacked.xyz/_Clubhouse/addons.xml.md5</checksum>-->
-            <!--<datadir zip="true">https://team2wacked.xyz/_Clubhouse/</datadir>-->
-        <!--</dir>-->
+        <dir><!--420 ClubHouse-->
+            <info compressed="false">http://team2wacked.xyz/_Clubhouse/addons.xml</info>
+            <checksum>http://team2wacked.xyz/_Clubhouse/addons.xml.md5</checksum>
+            <datadir zip="true">http://team2wacked.xyz/_Clubhouse/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]</summary>
