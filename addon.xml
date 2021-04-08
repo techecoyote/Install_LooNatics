@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.4.1"
+       version="21.4.7"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
-        <dir>
+        <dir><!--LoonaticsAsylum-->
             <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--TheLaboratory-->
             <info compressed="false">https://raw.githubusercontent.com/techecoyote/The_Laboratory/master/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/techecoyote/The_Laboratory/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/techecoyote/The_Laboratory/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--MyAccounts-->
             <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--FenomScrapers-->
             <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--SlyGuyTV-->
             <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
             <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
             <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
         </dir>
-        <dir maxversion="18.9.0">
+        <dir maxversion="18.9.0"><!--SlyGuyInputStreams-->
             <info compressed="false">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/johnny5-is-alive/iat-repo/master/main/leia/</datadir>
         </dir>
-        <dir>
+        <dir><!--OpenScrapers-->
             <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--UniversalScrapers-->
             <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--ResolveUrl-->
             <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
@@ -54,7 +54,7 @@
             <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
         </dir>
-        <dir>
+        <dir><!--EstuaryMods-->
             <info compressed="false">https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Guilouz/repository.guilouz/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/Guilouz/repository.guilouz/raw/master/_repo</datadir>
@@ -63,6 +63,41 @@
             <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/install/master/plugins</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/zips/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/bonecrusher/zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/zips/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/projx/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/bonecrusher/projx/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/projx/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mht/zips/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/zips/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/madhouse/zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/zips/</datadir>
+        </dir>
+        <dir><!--MadHouse-->
+            <info compressed="false">http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml</info>
+            <checksum>http://cf368ff.online-server.cloud/madhouse/mhp/zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://cf368ff.online-server.cloud/madhouse/mhp/zips/</datadir>
         </dir>
         <dir><!--Straitjacket-->
             <info compressed="false">https://raw.githubusercontent.com/watchdogs36/straitjacket/master/zips/addons.xml</info>
