@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.loonaticsasylum"
        name="  [COLORspringgreen]L[COLORpalegreen]o[COLORlime]o[COLORred]N[COLORcrimson]a[COLORmediumpurple]t[COLORmediumorchid]i[COLORorangered]c[COLORorange]s [COLORdeepskyblue]Asylum[/COLOR] [COLORblue]Repo[/COLOR]"
-       version="21.4.12"
+       version="21.4.13"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="Loonatics Asylum Repository">
         <dir><!--LoonaticsAsylum-->
-            <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/</datadir>
         </dir>
         <dir><!--TheLaboratory-->
@@ -83,26 +83,6 @@
             <info compressed="false">https://raw.githubusercontent.com/nostromorepo/android32/master/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/nostromorepo/android32/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/nostromorepo/android32/master/zips</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/zips/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/zips/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/zips/</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/metas/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/metas/</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/projx/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/projx/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/projx/</datadir>
-        </dir>
-        <dir><!--MadHouse-->
-            <info compressed="false">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml</info>
-            <checksum>http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/addons.xml.md5</checksum>
-            <datadir zip="true">http://cf368ff.online-server.cloud/bonecrusher/xxxmeta/</datadir>
         </dir>
         <dir><!--MadHouse-->
             <info compressed="false">http://cf368ff.online-server.cloud/madhouse/mht/zips/addons.xml</info>
